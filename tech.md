@@ -1,3 +1,6 @@
+# Interesting Blogs
+1. [How do we get people to understand programming.]
+
 # Interesting projects
 1. [Write your own virtual machine] 
 
@@ -11,3 +14,4 @@
 [Kafka intro]: https://kafka.apache.org/intro
 [Apache Kafka Explained (Comprehensive Overview)]: https://www.youtube.com/watch?v=JalUUBKdcA0
 [Write your own virtual machine]: https://justinmeiners.github.io/lc3-vm/
+[How do we get people to understand programming.]: http://worrydream.com/LearnableProgramming/
