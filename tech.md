@@ -7,13 +7,13 @@
 ## Android 
 1. [Android Development | Best Practices]
 
-# Kafka
+## Kafka
 1. [Kafka intro]
 2. [Ebay - Resiliency and Disaster Recovery with Kafka by Engin Yoeyen]
 3. [Apache Kafka Explained (Comprehensive Overview)]
 
 
-# Interesting projects
+## Interesting projects
 1. [Write your own virtual machine] 
 
 [THE INTELLIGENT INVESTOR SUMMARY (BY BENJAMIN GRAHAM)]: https://www.youtube.com/watch?v=npoyc_X5zO8&feature=youtu.be
