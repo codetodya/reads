@@ -13,6 +13,9 @@
 2. [Ebay - Resiliency and Disaster Recovery with Kafka by Engin Yoeyen]
 3. [Apache Kafka Explained (Comprehensive Overview)]
 
+## SRE
+1. https://www.coursera.org/professional-certificates/sre-devops-engineer-google-cloud?#howItWorks
+2. 
 
 ## Interesting projects
 1. [Write your own virtual machine] 
