@@ -4,6 +4,7 @@
 3. [Zuul 2 : The Netflix Journey to Asynchronous, Non-Blocking Systems]
 4. [THE INTELLIGENT INVESTOR SUMMARY (BY BENJAMIN GRAHAM)]
 6. [THE IMPORTANCE OF DEEP WORK & THE 30-HOUR METHOD FOR LEARNING A NEW SKILL]
+7. [A beginner's guide to database locking and the lost update phenomena - Vlad Mihalcea]
 
 ## Android 
 1. [Android Development | Best Practices]
@@ -34,3 +35,4 @@
 [THE IMPORTANCE OF DEEP WORK & THE 30-HOUR METHOD FOR LEARNING A NEW SKILL]: https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/
 [Hacker roadmap]: https://github.com/sundowndev/hacker-roadmap
 [Awesome hacking]: https://github.com/Hack-with-Github/Awesome-Hacking
+[A beginner's guide to database locking and the lost update phenomena - Vlad Mihalcea]: https://vladmihalcea.com/a-beginners-guide-to-database-locking-and-the-lost-update-phenomena/
